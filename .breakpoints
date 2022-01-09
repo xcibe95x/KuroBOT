@@ -1,0 +1,42 @@
+{
+  "files": {
+    "KuroBOT/Neural/kuro_train (copy).py": [
+      {
+        "id": "96816c40-810a-48eb-8343-72f3716edf1c",
+        "line": 31,
+        "version": 509,
+        "index": 799
+      }
+    ],
+    "keepalive.py": [
+      {
+        "id": "10407274-5260-46eb-ad63-9d310a419e9b",
+        "line": 1,
+        "version": 31,
+        "index": 0
+      }
+    ],
+    "kuro.py": [
+      {
+        "id": "591ce497-8cc0-41d8-970c-59cbd9fc5546",
+        "line": 1,
+        "version": 48,
+        "index": 0
+      }
+    ],
+    "main.py": [
+      {
+        "id": "09339bcf-7091-48ab-988c-31b867c3a45c",
+        "line": 1,
+        "version": 1114,
+        "index": 0
+      },
+      {
+        "id": "07ac7a74-f6bf-4b33-8ebc-c9cf712a9ae3",
+        "line": 1,
+        "version": 1114,
+        "index": 0
+      }
+    ]
+  }
+}
